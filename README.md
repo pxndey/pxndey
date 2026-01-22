@@ -4,7 +4,7 @@
 
 I'm an pursuing my graduate degree in Computer Science at New York University's Tandon School of Engineering
 
-Find me [here](htts://pxndey.com)
+Find me [here](https://pxndey.com)
 
 <!---
 I’m currently learning Flutter, with my areas of interest being Computer Vision and Deep Learning. I've worked on Designing and developing Front-End User Interfaces with Figma for both Mobile and Web Applications, and I've had some experience developing Flutter applications for personal projects as well
