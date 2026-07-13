@@ -3,6 +3,7 @@
 ### Hi there 👋
 
 I'm an pursuing my graduate degree in Computer Science at New York University's Tandon School of Engineering
+
 Find me [here](https://pxndey.com)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pxndey?theme=catppuccinMocha&font=Habibi&ext=heatmap)
